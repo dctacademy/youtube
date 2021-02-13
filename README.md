@@ -1,5 +1,5 @@
 # List of source code for all videos of DCT Academy's YouTube Channel
-Link to channel: https://www.youtube.com/channel/UClN7421hR4zgRTOUtbJTBJg
+Link to channel: https://www.youtube.com/dctacademy
 
 # Source Code
 1. [JavaScript Interview Coding Questions](https://github.com/dctacademy/javascript-interview-coding-questions)
